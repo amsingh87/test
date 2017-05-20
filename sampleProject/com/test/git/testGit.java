@@ -9,6 +9,7 @@ public class testGit {
 		td.display();
 		
 		System.out.println("Checking");
+		System.out.println("Test");
 
 	}
 }
