@@ -7,6 +7,8 @@ public class testGit {
 		testData td = new testData();
 		
 		td.display();
+		
+		System.out.println("Checking");
 
 	}
 }
